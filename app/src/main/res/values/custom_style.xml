@@ -4,4 +4,12 @@
     <item name = "cornerSize">50%</item>
 </style>
 
+    <style name="youtube">
+        <item name="cornerSizeTopRight">10dp</item>
+        <item name="cornerFamilyTopRight">cut</item>
+        <item name="cornerSizeBottomRight">10dp</item>
+        <item name="cornerFamilyBottomRight">cut</item>
+    </style>
+
+
 </resources>

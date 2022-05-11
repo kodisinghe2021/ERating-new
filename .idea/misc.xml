@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/drawable-v24/youtube_btn.xml" value="0.1" />
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/activity_home.xml" value="0.2234375" />
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/activity_login.xml" value="0.2234375" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/cardes_row.xml" value="0.2234375" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/fragment_games.xml" value="0.15185185185185185" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/fragment_movies.xml" value="0.1" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/fragment_news.xml" value="0.15185185185185185" />
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/fragment_videos.xml" value="0.1" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/games_single_card.xml" value="0.2234375" />
         <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/games_single_card_layout.xml" value="0.2234375" />
-        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/movies_single_card.xml" value="0.2234375" />
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/movies_single_card.xml" value="0.25434439178515006" />
+        <entry key="..\:/E-Rating-App-main/app/src/main/res/layout/youtube_button.xml" value="0.2234375" />
         <entry key="..\:/V-02/app/src/main/res/drawable/ic_wave__1_.xml" value="0.177" />
         <entry key="..\:/V-02/app/src/main/res/drawable/round_black.xml" value="0.199" />
         <entry key="..\:/V-02/app/src/main/res/drawable/round_border.xml" value="0.166" />

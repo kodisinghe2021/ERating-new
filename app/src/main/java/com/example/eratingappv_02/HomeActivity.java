@@ -7,8 +7,6 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager.widget.ViewPager;
 
 import android.content.Intent;
@@ -26,7 +24,7 @@ public class HomeActivity extends AppCompatActivity {
     private TabLayout tabLayout;
     private ViewPager viewPager;
     private GamesFragment gamesFragment;
-    private NewsFragment newsFragment;
+    private VideosFragment videosFragment;
     private MoviesFragment moviesFragment;
 
     @Override
@@ -41,7 +39,7 @@ public class HomeActivity extends AppCompatActivity {
         // fragment pages set
         gamesFragment = new GamesFragment();
         moviesFragment = new MoviesFragment();
-        newsFragment = new NewsFragment();
+        videosFragment = new VideosFragment();
         // set view page to the tab
         tabLayout.setupWithViewPager(viewPager);
 
@@ -49,7 +47,7 @@ public class HomeActivity extends AppCompatActivity {
         ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager(), 0);
         viewPagerAdapter.addFragment(gamesFragment, "Games");
         viewPagerAdapter.addFragment(moviesFragment, "Movies");
-        viewPagerAdapter.addFragment(newsFragment, "News");
+        viewPagerAdapter.addFragment(videosFragment, "Videos");
 
         viewPager.setAdapter(viewPagerAdapter);
 

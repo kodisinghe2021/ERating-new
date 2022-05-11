@@ -1,17 +1,14 @@
 package com.example.eratingappv_02;
 
 import android.os.Bundle;
-
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-
 import com.example.eratingappv_02.databinding.FragmentGamesBinding;
-import com.example.eratingappv_02.databinding.FragmentNewsBinding;
+
 
 public class GamesFragment extends Fragment {
     private String s1[], s2[], image_main_url[],image_logo_url[];
