@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">E Rating App V-02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home2">HomeActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+<!--  games names-->
+    <string-array name="games_names">
+        <item>Need for Speed</item>
+        <item>Grant Thief Auto</item>
+        <item>IGI</item>
+        <item>Angry Bird</item>
+        <item>Need for Speed</item>
+        <item>Grant Thief Auto</item>
+        <item>IGI</item>
+        <item>Angry Bird</item>
+    </string-array>
+    <!--  games types-->
+    <string-array name="games_types">
+        <item>Car Race</item>
+        <item>Thriller</item>
+        <item>War game</item>
+        <item>Shooting</item>
+        <item>Car Race</item>
+        <item>Thriller</item>
+        <item>War game</item>
+        <item>Shooting</item>
+    </string-array>
+    <!--  games main images url-->
+    <string-array name="games_image_main_url">
+        <item>https://picsum.photos/id/109/400/250</item>
+        <item>https://picsum.photos/id/242/400/250</item>
+        <item>https://picsum.photos/id/353/400/250</item>
+        <item>https://picsum.photos/id/401/400/250</item>
+        <item>https://picsum.photos/id/109/400/250</item>
+        <item>https://picsum.photos/id/242/400/250</item>
+        <item>https://picsum.photos/id/353/400/250</item>
+        <item>https://picsum.photos/id/401/400/250</item>
+    </string-array>
+
+    <!--  games main images url-->
+    <string-array name="games_image_logo_url">
+        <item>https://picsum.photos/id/109/100/100</item>
+        <item>https://picsum.photos/id/242/100/100</item>
+        <item>https://picsum.photos/id/353/100/100</item>
+        <item>https://picsum.photos/id/401/100/100</item>
+        <item>https://picsum.photos/id/1094/100/100</item>
+        <item>https://picsum.photos/id/1042/100/100</item>
+        <item>https://picsum.photos/id/1053/100/100</item>
+        <item>https://picsum.photos/id/1001/100/100</item>
+    </string-array>
+
+    <!--  movies data here   -->
+
+    <!--  movies names-->
+    <string-array name="movies_names">
+        <item>Need for Speed</item>
+        <item>Grant Thief Auto</item>
+        <item>IGI</item>
+        <item>Angry Bird</item>
+        <item>Need for Speed</item>
+        <item>Grant Thief Auto</item>
+        <item>IGI</item>
+        <item>Angry Bird</item>
+    </string-array>
+    <!--  games types-->
+    <string-array name="movies_types">
+        <item>Car Race</item>
+        <item>Thriller</item>
+        <item>War game</item>
+        <item>Shooting</item>
+        <item>Car Race</item>
+        <item>Thriller</item>
+        <item>War game</item>
+        <item>Shooting</item>
+    </string-array>
+    <!--  games main images url-->
+    <string-array name="movies_image_main_url">
+        <item>https://picsum.photos/id/23/400/250</item>
+        <item>https://picsum.photos/id/45/400/250</item>
+        <item>https://picsum.photos/id/46/400/250</item>
+        <item>https://picsum.photos/id/47/400/250</item>
+        <item>https://picsum.photos/id/48/400/250</item>
+        <item>https://picsum.photos/id/50/400/250</item>
+        <item>https://picsum.photos/id/51/400/250</item>
+        <item>https://picsum.photos/id/52/400/250</item>
+    </string-array>
+
+    <!--  games main images url-->
+    <string-array name="movies_image_logo_url">
+        <item>https://picsum.photos/id/23/100/100</item>
+        <item>https://picsum.photos/id/45/100/100</item>
+        <item>https://picsum.photos/id/46/100/100</item>
+        <item>https://picsum.photos/id/47/100/100</item>
+        <item>https://picsum.photos/id/48/100/100</item>
+        <item>https://picsum.photos/id/50/100/100</item>
+        <item>https://picsum.photos/id/51/100/100</item>
+        <item>https://picsum.photos/id/52/100/100</item>
+    </string-array>
+
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
